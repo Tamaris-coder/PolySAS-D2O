@@ -18,3 +18,4 @@ git clone https://github.com/Tamaris-coder/PolySAS-D2O.git
 cd PolySAS-D2O
 pip install -r requirements.txt
 python src/auto_fit.py
+
